@@ -2,11 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://blue-gate.netlify.app/authors/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/authors/blue-gate-team/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
     <loc>https://blue-gate.netlify.app/</loc>
     <lastmod>2025-03-21T14:44:24+07:00</lastmod>
   </url><url>
-    <loc>https://blue-gate.netlify.app/authors/</loc>
-  </url><url>
     <loc>https://blue-gate.netlify.app/categories/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/categories/ddos/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/authors/febrian-tisna/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/categories/general/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/authors/gh0st/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/authors/h4d3s/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/categories/lumma/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/my-fifth-post/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/my-first-post/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/my-fourth-post/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/my-seconod-post/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/my-third-post/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/categories/rootkit/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
+  </url><url>
+    <loc>https://blue-gate.netlify.app/categories/threat-intel/</loc>
+    <lastmod>2025-03-21T14:44:24+07:00</lastmod>
   </url>
 </urlset>

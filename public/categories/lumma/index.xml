@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lumma on BlueGate</title>
-    <link>http://localhost:1313/categories/lumma/</link>
+    <link>https://blue-gate.netlify.app/categories/lumma/</link>
     <description>Recent content in Lumma on BlueGate</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 21 Mar 2025 14:44:24 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/lumma/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blue-gate.netlify.app/categories/lumma/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My Third Post</title>
-      <link>http://localhost:1313/my-third-post/</link>
+      <link>https://blue-gate.netlify.app/my-third-post/</link>
       <pubDate>Fri, 21 Mar 2025 14:44:24 +0700</pubDate>
-      <guid>http://localhost:1313/my-third-post/</guid>
+      <guid>https://blue-gate.netlify.app/my-third-post/</guid>
       <description>Executive Summary Emotet is a sophisticated banking trojan that has evolved into a modular malware distribution platform. This analysis reveals its multi-stage infection process, advanced evasion techniques, and ability to deliver additional payloads like TrickBot and Ryuk ransomware. The sample shows significant improvements in anti-analysis capabilities compared to earlier variants.&#xA;Threat Level: Critical&#xA;Family: Emotet&#xA;Aliases: Heodo, Feodo&#xA;Discovered: Initially 2014, this variant from January 2023&#xA;Platform: Windows&#xA;Sample Information Attribute Value File Name invoice_29381.</description>
     </item>
   </channel>
