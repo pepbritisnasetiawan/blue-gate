@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gh0st on BlueGate</title>
+    <link>http://localhost:1313/authors/gh0st/</link>
+    <description>Recent content in Gh0st on BlueGate</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 21 Mar 2025 14:44:24 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/authors/gh0st/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/my-seconod-post/</link>
+      <pubDate>Fri, 21 Mar 2025 14:44:24 +0700</pubDate>
+      <guid>http://localhost:1313/my-seconod-post/</guid>
+      <description>Executive Summary Emotet is a sophisticated banking trojan that has evolved into a modular malware distribution platform. This analysis reveals its multi-stage infection process, advanced evasion techniques, and ability to deliver additional payloads like TrickBot and Ryuk ransomware. The sample shows significant improvements in anti-analysis capabilities compared to earlier variants.&#xA;Threat Level: Critical&#xA;Family: Emotet&#xA;Aliases: Heodo, Feodo&#xA;Discovered: Initially 2014, this variant from January 2023&#xA;Platform: Windows&#xA;Sample Information Attribute Value File Name invoice_29381.</description>
+    </item>
+  </channel>
+</rss>

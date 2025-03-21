@@ -1,0 +1,14 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'BlueGate'
+
+paginate = 4
+
+[params]
+  description = "The Fastest Blog"
+  keywords = "Blue Team"
+  dateFormat = "Jan 2, 2006"
+
+[taxonomies]
+  category = "categories"
+  author = "authors"
